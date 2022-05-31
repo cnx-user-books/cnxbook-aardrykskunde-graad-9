@@ -1,0 +1,525 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Magnetiese noord en magnetiese deklinasie</title>
+  <metadata>
+  <md:content-id>m25551</md:content-id><md:title>Magnetiese noord en magnetiese deklinasie</md:title>
+  <md:abstract/>
+  <md:uuid>611da461-1ebe-43aa-a0ec-862a95b0a325</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6804198">
+      <title>SOSIALE WETENSKAPPE: AARDRYKSKUNDE</title>
+      <para id="para-id6804198">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8375567">
+      <title>Graad 9</title>
+      <para id="para-id8375567">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4015483">
+      <title>KAARTWERK</title>
+      <para id="para-id4015483">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2649497">
+      <title>Module 13</title>
+      <para id="para-id2649497">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7101482">
+      <title>Magnetiese Noord en Magnetiese Deklinasie</title>
+      <list id="id5118783" list-type="enumerated" number-style="arabic">
+        <item>Magnetiese Noord en Magnetiese Deklinasie</item>
+      </list>
+      <para id="id5053028">Jy het verlede jaar geleer hoe om ware peiling te doen. Onthou die stappe wat gevolg moet word:</para>
+      <list id="id7893580" list-type="bulleted">
+        <item>Verbind die twee punte met ‘n potloodlyn.</item>
+        <item>Trek ‘n ware noordlyn deur die punt VANAF waar daar gemeet moet  word.</item>
+        <item>Plaas die gradeboog in posisie met 0° teenoor die noordlyn en die middel  by die punt van waar af gemeet moet word.</item>
+        <item>Meet die hoek vanaf die noordlyn regsom (kloksgewys) tot by die  verbindingslyn (potloodlyn van stap 1).</item>
+      </list>
+      <para id="id5112352">Voorbeeld:</para>
+      <para id="id2860406">
+        <figure id="id7179731">
+          <media id="id7179731_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-fa2d.png" id="id7179731__onlineimage" height="186" width="161"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7844887">Antwoord:…………°</para>
+      <list id="id4888219" list-type="bulleted">
+        <item>Noord op ‘n kaart dui dus die noordpool aan – wat ons WARE NOORD noem.</item>
+        <item>Die aarde het egter ook ‘n magneetveld wat van Noord na Suid strek, waarvoor ‘n kompas gebruik word. Die aarde se magneetveld loop egter nie presies saam met die ware Noord of Suidpool nie. Noord op die kompasnaald sal altyd WES lê van WARE NOORD (WN). Hierdie noord word MAGNETIESE NOORD (MN) genoem.</item>
+        <item>Die verskil tussen ware en magnetiese noord word die MAGNETIESE DEKLINASIE (MD) genoem. Die Magnetiese Deklinasie verskil van plek tot plek en by dieselfde plek raak die hoek gedurig groter of kleiner, omdat die magnetiese noord nie ‘n vaste punt is nie.</item>
+        <item>Om ‘n plek se Magnetiese Deklinasie uit te werk, word die volgende inligting aan die buitelyn van jou 1:50 000 topografiese kaart gegee.</item>
+      </list>
+      <para id="id7094319">Voorbeeld:</para>
+      <figure id="id7689858">
+        <media id="id7689858_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-9306.png" id="id7689858__onlineimage" height="232" width="352"/>
+        </media>
+      </figure>
+      <para id="id7182397">Bereken die huidige magnetiese deklinasie</para>
+      <para id="id5316107">Stap 1:</para>
+      <para id="id7469709">Bereken die verskil in jare = 2003 – 2000</para>
+      <para id="id8305055"> = 3 jaar</para>
+      <para id="id4893225">Stap 2:</para>
+      <para id="id7216856">Vermenigvuldig die jare met die jaarlikse verandering in minute = 3 jaar x 4'</para>
+      <para id="id8133824"> = 12'</para>
+      <para id="id4293206">Stap 3:</para>
+      <para id="id7388566">Kyk of die hoek kleiner (ooswaarts) of groter (weswaarts) word.</para>
+      <table id="id4616269" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Ooswaarts (kleiner) -</entry>
+              <entry>Weswaarts (groter) +</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <figure id="id8003792">
+        <media id="id8003792_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-962a.png" id="id8003792__onlineimage" height="286" width="278"/>
+        </media>
+      </figure>
+      <para id="id6960295">
+        <figure id="id5156696">
+          <media id="id5156696_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4-5f01.png" id="id5156696__onlineimage" height="288" width="280"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id4355208">Stap 4:</para>
+      <para id="id5766083">Tel die minute by (weswaarts) of trek dit af (ooswaarts).</para>
+      <para id="id5176155">In hierdie geval ooswaarts, dus</para>
+      <para id="id5943306"> 21°30' - 12'</para>
+      <para id="id5986485"> = 21°18' Wes van Ware Noord</para>
+      <para id="id4193181">ONTHOU dat daar 60' in 1° is.</para>
+      <list id="id4842301" list-type="bulleted">
+        <item>Sou jy moet aftrek en die minute wat jy moet aftrek is te veel, moet jy 1° “leen” en na minute omskakel.</item>
+      </list>
+      <para id="id4094205">Voorbeeld:</para>
+      <para id="id5039995">21°30' - 34'</para>
+      <para id="id7393694">20°90' - 34'</para>
+      <para id="id2454704">= 20°56' Wes van Ware Noord.</para>
+      <list id="id4205351" list-type="bulleted">
+        <item>As jy jou minute moet bytel en jou antwoord is meer as 60', moet jy dit omwerk na 1°.</item>
+      </list>
+      <para id="id7997667">Voorbeeld:</para>
+      <para id="id7210278">21°30' + 34'</para>
+      <para id="id6015733">21°64'</para>
+      <para id="id4920615">= 22°04' Wes van Ware Noord</para>
+      <para id="id4289707">Stap 5:</para>
+      <para id="id4840760">Onthou om altyd Wes van Ware Noord langs die nuwe afwyking te skryf, want Magnetiese Noord lê ALTYD WES van WARE NOORD.</para>
+      <list id="id4406026" list-type="enumerated" number-style="arabic">
+        <item>Magnetiese Peiling</item>
+      </list>
+      <para id="id5047104">Om die Magnetiese Peiling (Magnetiese Noord) tussen twee punte te meet, moet die grade van die WARE PEILING bygetel (+) word by die Magnetiese Deklinasie en die antwoord in grade neergeskryf word:</para>
+      <para id="id8273193">Voorbeeld:</para>
+      <para id="id8310600">WN + MD = MN</para>
+      <para id="id7359373">50° + 21°18' = 71°18'</para>
+      <para id="id4917275">AKTIWITEIT 1</para>
+      <list id="id2573549" list-type="enumerated" number-style="arabic">
+        <item>Bereken die Magnetiese Peiling VANAF A na B.</item>
+      </list>
+      <para id="id5929000">Die Magnetise Deklinasie in 1990 was 18°18' Wes van Ware Noord. Die jaarlikse verandering is 2' weswaarts.</para>
+      <figure id="id7775147">
+        <media id="id7775147_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-63ec.png" id="id7775147__onlineimage" height="188" width="422"/>
+        </media>
+      </figure>
+      <para id="id2662220">Ware Noord:</para>
+      <para id="id7002945">Huidige Magnetise Deklinasie:</para>
+      <para id="id5079822">Magnetiese Peiling:</para>
+      <list id="id4131800" list-type="enumerated" number-style="arabic">
+        <item>Bereken die Magnetiese Peiling vanaf D na C. Die Magnetiese Deklinasie in 1993 was 20°15' Wes van Ware Noord. Die jaarlikse verandering is 3' ooswaarts.</item>
+      </list>
+      <figure id="id4780526">
+        <media id="id4780526_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-6c5c.png" id="id4780526__onlineimage" height="171" width="383"/>
+        </media>
+      </figure>
+      <para id="id8357644">Ware Peiling:</para>
+      <para id="id4879693">Huidige Magnetiese Deklinasie:</para>
+      <para id="id7344574">Magnetiese Peiling:</para>
+      <table id="id2830403" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU 1.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6959038" list-type="enumerated" number-style="arabic">
+        <item>Oppervlakberekening op ‘n kaart</item>
+      </list>
+      <para id="id4626021">Voorbeeld</para>
+      <table id="id5139528" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <media id="id4051268" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 7-3b29.png"/>
+                </media>
+              </entry>
+              <entry>Formule : L (op skaal) x B (op skaal)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id4490835" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Bereken die oppervlakte in m²</entry>
+              <entry>Bereken die oppervlakte in km²</entry>
+            </row>
+            <row>
+              <entry>L (op skaal) x B (op skaal)= (4,4 x 500) x (3,6 x 500)= 2 200 x 1 800= 396 0000 m²</entry>
+              <entry>L (op skaal) x B (op skaal)= (4,4 x ,5) x (3,6 x ,5)= 2,2 x 1,8= 3,96 km²</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8002964">Stappe: </para>
+      <list id="id4920201" list-type="enumerated" number-style="arabic">
+        <item>Meet lengte in cm en herlei na m / km.</item>
+        <item>Meet breedte in cm en herlei na m / km.</item>
+        <item>Pas formule toe: L x B.</item>
+        <item>Skryf die antwoord in km² / m².</item>
+      </list>
+      <para id="id8296035">Let altyd op in watter eenheid die antwoord gegee moet word, gewoonlik m² of km².</para>
+      <para id="id2596017">AKTIWITEIT 2</para>
+      <list id="id8341632" list-type="enumerated" number-style="arabic">
+        <item>Die lengte van ‘n reghoekige voorwerp is 5,6 cm en die breedte is 3,4 cm op ‘n 1 : 50 000 topografiese kaart. Bereken die oppervlakte van die voorwerp in km².</item>
+        <item>Die lengte van ‘n gebou is 1,1 cm en die breedte is 0,6 cm op ‘n 1 : 50 000 topografiese kaart. Bereken die oppervlakte van die gebou in m².</item>
+      </list>
+      <table id="id4295385" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU 1.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id2735707" list-type="enumerated" number-style="arabic">
+        <item>Tydsberekening tussen twee verskillende punte</item>
+      </list>
+      <table id="id8324908" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Tyd = </entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>Afstand</entry>
+                  </row>
+                  <row>
+                    <entry>Spoed</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <emphasis effect="underline">of</emphasis>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Spoed =</entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>Afstand</entry>
+                  </row>
+                  <row>
+                    <entry>Tyd</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>of</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Afstand =</entry>
+              <entry>Spoed x Tyd</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6972956">Die afstand wat afgelê word, sal bereken moet word vanaf die kaart en in werklike <emphasis effect="italics">km</emphasis> gegee moet word. Spoed of tyd sal altyd gegee word.</para>
+      <para id="id7942501">Voorbeeld:</para>
+      <figure id="id1742733">
+        <media id="id1742733_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9.png" id="id1742733__onlineimage" height="50" width="551"/>
+        </media>
+      </figure>
+      <list id="id4253587" list-type="bulleted">
+        <item>Hoe lank sal dit ‘n motor neem wat teen 60 km/h beweeg om van punt A na punt B te beweeg?</item>
+      </list>
+      <para id="id7337802">Stappe:</para>
+      <para id="id8365620"/>
+      <table id="id2928433" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3"><list id="id2672293" list-type="enumerated" number-style="arabic"><item>Verwerk die afstand in<emphasis effect="italics"> cm </emphasis>na ware afstand in <emphasis effect="italics">km</emphasis>.</item></list> 17 cm x ,5 = 8,5 km</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3"/>
+            </row>
+            <row>
+              <entry>
+                <list id="id6031853" list-type="enumerated" number-style="arabic">
+                  <item>Pas formule toe: Tyd =</item>
+                </list>
+              </entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>Afstand</entry>
+                  </row>
+                  <row>
+                    <entry>Spoed</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry/>
+            </row>
+            <row>
+              <entry>=</entry>
+              <entrytbl namest="c2" nameend="c3" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>8,5 km</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry>60 km/h</entry>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>=</entry>
+              <entry>0,142 van ‘n uur</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <list id="id6016036" list-type="enumerated" number-style="arabic">
+                  <item>Verwerk na minute: =</item>
+                </list>
+              </entry>
+              <entry>0, 142 x 60</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>=</entry>
+              <entry>8,52 minute</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4867589">AKTIWITEIT 3</para>
+      <para id="id4889912">Hoe laat sal ‘n persoon by sy bestemming aankom as hy 7:00 die huis verlaat en teen 80 km/h ‘n afstand van 8 cm op ‘n 1 : 50 000 kaart aflê.</para>
+      <table id="id4186305" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU 1.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7088776">
+      <title>Assessering</title>
+      <table id="id4631755" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">AARDRYKSKUNDIGE ONDERSOEK</emphasis>Die leerder is in staat om ondersoekvaardighede te gebruik om aardrykskundige en omgewingsbegrippe en –prosesse te ondersoek.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>1.3 gevolgtrekkings oor inligting uit bronne soos foto’s, kaarte, atlasse, grafieke en statistiek ontleed en maak [werk met bronne];<list id="id7437349" list-type="enumerated" mark-prefix="1.4"><item>inligting tussen verskillende bronne korreleer;</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7335686">
+      <title>Memorandum</title>
+      <para id="id5091505">AKTIWITEIT1:</para>
+      <para id="id4661174">1. Ware Noord / Peiling  :</para>
+      <para id="id4830053">Magnetiese Deklinasie : 1990 – 2003 = 13 jaar</para>
+      <para id="id8002064">13 × 2’ = 26’ weswaarts</para>
+      <para id="id7210659">18<sup>0</sup>41’ + 26’ (weswaarts)</para>
+      <para id="id4877851">= 18<sup>0</sup>67’</para>
+      <para id="id7396973">= 19<sup>0</sup>07 Wes van ware noord</para>
+      <para id="id6789560">Magnetiese Peiling  : WN + MD = MN</para>
+      <para id="id4247795">     …… + 19<sup>0</sup>07 = ………………………..</para>
+      <list id="id7429041" list-type="enumerated" number-style="arabic">
+        <item>Ware Peiling   :</item>
+      </list>
+      <para id="id6973830">Magnetiese Deklinasie  : 1993 – 2003 = 10 jaar</para>
+      <para id="id2623594">10 × 3’ = 30’ ooswaarts (-)</para>
+      <para id="id7420084">20<sup>0</sup>15’ – 30’</para>
+      <para id="id5052880">19<sup>0</sup>75 – 30</para>
+      <para id="id7759342">= 19<sup>0</sup>45’ Wes van ware noord</para>
+      <para id="id7928756"> Magnetiese Peil  : WN + MO = MN</para>
+      <para id="id7709990">      ...................... + 19<sup>0</sup>45 =..................................</para>
+      <para id="id5983068">AKTIWITEIT 2:</para>
+      <list id="id5911419" list-type="enumerated" number-style="arabic">
+        <item>L × B</item>
+      </list>
+      <para id="id8369289">(5,6 × 0,5) × (3,4 × 0,5)</para>
+      <para id="id7929095">2,8 × 1,7</para>
+      <para id="id8274787">= 4,76 km<sup>2</sup></para>
+      <list id="id8376034" list-type="bulleted">
+        <item>L × B</item>
+      </list>
+      <para id="id8346828">(1,1 × 500) × (0,6 × 500)</para>
+      <para id="id7395613">550 × 300</para>
+      <para id="id7131324">165 000 m<sup>2</sup></para>
+      <para id="id4107005">AKTIWITEIT3:</para>
+      <para id="id5059122">1. Werklike afstand = 8 × 0,5 = 4 km</para>
+      <para id="id5182656">Tyd = 
+<m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Af</m:mtext></m:mrow></m:mstyle><m:mstyle fontweight="bold"><m:mrow><m:mtext>stan</m:mtext></m:mrow></m:mstyle><m:mi>d</m:mi></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Spoed</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "Af" bold "stan"d}  over  { ital "Spoed"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1756125">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>km</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mtext>80</m:mtext><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>km</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">/</m:mo><m:mi>h</m:mi></m:mrow></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4 ital "km"}  over  {"80" ital "km"/h} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id4781576">= 0,05 × 60</para>
+      <para id="id7757376">= 3 minute</para>
+      <para id="id5064562">7:00 + 3 minute</para>
+      <para id="id4544965">= 7:03</para>
+    </section>
+  </content>
+</document>
